@@ -1,0 +1,15 @@
+#cert{
+    display: inline;
+}
+
+p, dd, li{
+    font-size: 1.2em;
+}
+
+p{
+    text-align: justify;
+}
+
+.back{
+    display: block;
+}
